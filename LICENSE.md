@@ -1,14 +1,13 @@
 # EssentialOilsDataset
-@article{,
-author = {},
-title = {A Machine Learning Approach to Evaluating the Impact of Natural Oils on Alzheimer’s Disease Progression},
-journal = {},
-volume = {},
-number = {},
-pages = {},
-doi = {},
-url = {},
-year = {}
+@article{amawi2024machine,
+  title={A Machine Learning Approach to Evaluating the Impact of Natural Oils on Alzheimer’s Disease Progression},
+  author={Amawi, Rema M and Al-Hussaeni, Khalil and Keeriath, Joyce James and Ashmawy, Naglaa S},
+  journal={Applied Sciences},
+  volume={14},
+  number={15},
+  pages={6395},
+  year={2024},
+  publisher={MDPI}
 }
 
 Disclaimer:
